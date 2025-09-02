@@ -1,0 +1,5 @@
+{
+  "name": "Mim Clicker",
+  "description": "A minimalist clicker game in the Nothing style, where you collect MIMU tokens, purchase upgrades, collect pets, and climb the leaderboard. Features smooth animations powered by GSAP for an engaging experience.",
+  "requestFramePermissions": []
+}
